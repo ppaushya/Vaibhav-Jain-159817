@@ -1,0 +1,6 @@
+org\capg\model\BootClass.class
+org\capg\model\AccountType.class
+org\capg\model\Transaction.class
+org\capg\model\Address.class
+org\capg\model\Account.class
+org\capg\model\Customer.class
